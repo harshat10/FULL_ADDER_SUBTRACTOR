@@ -1,6 +1,6 @@
 ### NAME : HARSHAT.G
 ### REG NO.: 24010855
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
