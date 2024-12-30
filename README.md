@@ -1,8 +1,6 @@
 ### NAME : HARSHAT.G
 ### REG NO.: 24010855
-# Exp No.4 FULL ADDER SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+# Exp No.4 Implementation of Full Adder andbFull subtractor circuit
 
 # AIM:
 
